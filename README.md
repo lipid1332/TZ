@@ -14,8 +14,8 @@
       }
     }
 ```
-4. В Docker Desktop разрешить запуск файла миграции (либо добавить папку в File Sharing)
-5. Запустить docker-compose up
+4. Запустить docker-compose up
+5. В Docker Desktop разрешить запуск файла миграции (либо добавить папку в File Sharing)
 ### Linux / macOS (bash)
 3. Выполнить команду в терминале:
 
